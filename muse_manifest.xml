@@ -1,0 +1,517 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="strengths.com" resolutions="1x,2x" timestamp="1497398053602">
+  <folder name="css">
+    <file name="site_global.css" crc="142423663"/>
+    <file name="master_a-master.css" crc="456762397" ref="activities:why-investing-time-to-develop-your-strengths:multimedia:survey:index:about-strengths:faq:34-strengths:4-themes:3-stages"/>
+    <file name="activities.css" crc="513229307" ref="activities"/>
+    <file name="why-investing-time-to-develop-your-strengths.css" crc="68952624" ref="why-investing-time-to-develop-your-strengths"/>
+    <file name="multimedia.css" crc="4282602040" ref="multimedia"/>
+    <file name="survey.css" crc="3832689132" ref="survey"/>
+    <file name="index.css" crc="4108901920" ref="index"/>
+    <file name="iefonts_index.css" crc="187924634" ref="index"/>
+    <file name="about-strengths.css" crc="436714684" ref="about-strengths"/>
+    <file name="faq.css" crc="17029142" ref="faq"/>
+    <file name="34-strengths.css" crc="3219033" ref="34-strengths"/>
+    <file name="4-themes.css" crc="406675773" ref="4-themes"/>
+    <file name="iefonts_34-strengths.css" crc="395008682" ref="34-strengths"/>
+    <file name="iefonts_faq.css" crc="4009251576" ref="faq"/>
+    <file name="iefonts_about-strengths.css" crc="3987201598" ref="about-strengths"/>
+    <file name="iefonts_activities.css" crc="334430573" ref="activities"/>
+    <file name="iefonts_4-themes.css" crc="4230999799" ref="4-themes"/>
+    <file name="iefonts_multimedia.css" crc="203769467" ref="multimedia"/>
+    <file name="iefonts_survey.css" crc="353450254" ref="survey"/>
+    <file name="iefonts_why-investing-time-to-develop-your-strengths.css" crc="4282300229" ref="why-investing-time-to-develop-your-strengths"/>
+    <file name="3-stages.css" crc="4137795867" ref="3-stages"/>
+    <file name="iefonts_3-stages.css" crc="14522321" ref="3-stages"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-strengths:multimedia:activities:faq:survey:why-investing-time-to-develop-your-strengths:4-themes:34-strengths:3-stages"/>
+    <file name="museutils.js" crc="4232573551" ref="index:about-strengths:multimedia:activities:faq:survey:why-investing-time-to-develop-your-strengths:4-themes:34-strengths:3-stages"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-strengths:multimedia:activities:faq:survey:why-investing-time-to-develop-your-strengths:4-themes:34-strengths:3-stages"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:about-strengths:multimedia:activities:faq:survey:why-investing-time-to-develop-your-strengths:4-themes:34-strengths:3-stages"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:about-strengths:multimedia:activities:faq:survey:why-investing-time-to-develop-your-strengths:4-themes:34-strengths:3-stages"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:about-strengths:4-themes:34-strengths:multimedia:activities:faq:survey:why-investing-time-to-develop-your-strengths:3-stages"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-strengths:multimedia:activities:faq:survey:why-investing-time-to-develop-your-strengths:4-themes:34-strengths:3-stages"/>
+    <file name="require.js" crc="4234670167" ref="index:about-strengths:multimedia:activities:faq:survey:why-investing-time-to-develop-your-strengths:4-themes:34-strengths:3-stages"/>
+    <file name="webpro.js" crc="3770351119" ref="index:faq:survey"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:survey"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="faq"/>
+    <file name="form_check.php" crc="3841221102" ref="survey"/>
+    <file name="form_throttle.php" crc="4048049783" ref="survey"/>
+    <file name="form_process.php" crc="3899230280" ref="survey"/>
+    <file name="form-u6567.php" crc="321289694" ref="survey"/>
+  </folder>
+  <folder name="images">
+    <file name="cc_logo2.svg" crc="4069389085" seo="true" ref="index:about-strengths:4-themes:34-strengths:multimedia:activities:faq:survey:why-investing-time-to-develop-your-strengths:3-stages">
+      <caption webpage="index" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+    </file>
+    <file name="cc_logo2_poster_.png" crc="4074940677" ref="index"/>
+    <file name="pasted-svg-406031x389.svg" crc="150808267" seo="true" ref="index:about-strengths:4-themes:34-strengths:multimedia:activities:faq:survey:why-investing-time-to-develop-your-strengths:3-stages">
+      <caption webpage="index" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+    </file>
+    <file name="pasted svg 406031x389_poster_.png" crc="4048222569" ref="index"/>
+    <file name="pasted-svg-5434x54.svg" crc="314083913" seo="true" ref="index:about-strengths:4-themes:34-strengths:multimedia:activities:faq:survey:why-investing-time-to-develop-your-strengths:3-stages">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+    </file>
+    <file name="pasted svg 5434x54_poster_.png" crc="3982656345" ref="index"/>
+    <file name="pasted-svg-25554x25.svg" crc="39063246" seo="true" ref="index:about-strengths:4-themes:34-strengths:multimedia:activities:faq:survey:why-investing-time-to-develop-your-strengths:3-stages">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+    </file>
+    <file name="pasted svg 25554x25_poster_.png" crc="4096539159" ref="index"/>
+    <file name="pasted-svg-3752x39.svg" crc="3795565883" seo="true" ref="index:about-strengths:4-themes:34-strengths:multimedia:activities:faq:survey:why-investing-time-to-develop-your-strengths:3-stages">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+    </file>
+    <file name="pasted svg 3752x39_poster_.png" crc="3768242878" ref="index"/>
+    <file name="pasted-svg-23668x26.svg" crc="239631590" seo="true" ref="index:about-strengths:4-themes:34-strengths:multimedia:activities:faq:survey:why-investing-time-to-develop-your-strengths:3-stages">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+    </file>
+    <file name="pasted svg 23668x26_poster_.png" crc="291458560" ref="index"/>
+    <file name="pasted-svg-97719x87.svg" crc="4017327727" seo="true" ref="index:about-strengths:4-themes:34-strengths:multimedia:activities:faq:survey:why-investing-time-to-develop-your-strengths:3-stages">
+      <caption webpage="index" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+    </file>
+    <file name="pasted svg 97719x87_poster_.png" crc="27391293" ref="index"/>
+    <file name="pasted-svg-97719x872.svg" crc="452407774" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 97719x87_poster_2.png" crc="385431921" ref="index"/>
+    <file name="pasted-svg-165546x128.svg" crc="190139796" seo="true" ref="index:4-themes">
+      <caption webpage="index" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+    </file>
+    <file name="pasted svg 165546x128_poster_.png" crc="381109231" ref="index"/>
+    <file name="pasted-svg-154847x131.svg" crc="134512981" seo="true" ref="index:4-themes">
+      <caption webpage="index" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+    </file>
+    <file name="pasted svg 154847x131_poster_.png" crc="381660928" ref="index"/>
+    <file name="pasted-svg-16893x155.svg" crc="3924888887" seo="true" ref="index:4-themes">
+      <caption webpage="index" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+    </file>
+    <file name="pasted svg 16893x155_poster_.png" crc="4088547010" ref="index"/>
+    <file name="pasted-svg-151599x169.svg" crc="60924855" seo="true" ref="index:4-themes">
+      <caption webpage="index" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+    </file>
+    <file name="pasted svg 151599x169_poster_.png" crc="294958240" ref="index"/>
+    <file name="strengthslogo.png" crc="518243358" seo="true" ref="index:about-strengths:multimedia:activities:faq:survey:why-investing-time-to-develop-your-strengths:4-themes:34-strengths:3-stages">
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="4-domains" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="34-themes" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+    </file>
+    <file name="strengthslogo_2x.png" crc="4021312539" seo="true" ref="index:about-strengths:multimedia:activities:faq:survey:why-investing-time-to-develop-your-strengths:4-themes:34-strengths:3-stages">
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="4-domains" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="34-themes" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+    </file>
+    <file name="cc_white_logo.svg" crc="283519854" seo="true" ref="index:about-strengths:multimedia:activities:faq:survey:why-investing-time-to-develop-your-strengths:4-themes:34-strengths:3-stages">
+      <caption webpage="about-strengths" alt=""/>
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="4-domains" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="4-themes" alt=""/>
+      <caption webpage="why-are-talents-the-foundation-of-strengths" alt=""/>
+      <caption webpage="activities" alt=""/>
+      <caption webpage="34-themes" alt=""/>
+      <caption webpage="why-investing-time-to-develop-your-strengths" alt=""/>
+      <caption webpage="34-strengths" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="multimedia" alt=""/>
+      <caption webpage="what-are-strenghts" alt=""/>
+    </file>
+    <file name="cc_white_logo_poster_.png" crc="3899111467" ref="index"/>
+    <file name="color-closer.png" crc="458442986" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="color-closer_2x.png" crc="484054328" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about-strengths"/>
+    <file name="left_arrow_button.svg" crc="447150609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="left_arrow_button_poster_.png" crc="3866961743" ref="index"/>
+    <file name="arrow_right_button.svg" crc="4027998354" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrow_right_button_poster_.png" crc="188936208" ref="index"/>
+    <file name="social_tw_sprite.png" crc="3922289204" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb rotate (color).svg" crc="509660178" ref="index"/>
+    <file name="fb rotate (color)_poster_u3881.png" crc="3903622941" ref="index"/>
+    <file name="instagram rotate (color)-01.svg" crc="4282771244" ref="index"/>
+    <file name="instagram rotate (color)-01_poster_u3946.png" crc="3762124371" ref="index"/>
+    <file name="twitter rotate (color).svg" crc="175408767" ref="index"/>
+    <file name="twitter rotate (color)_poster_u3891.png" crc="113305735" ref="index"/>
+    <file name="linkedin rotate (color).svg" crc="57478992" ref="index"/>
+    <file name="linkedin rotate (color)_poster_u3927.png" crc="4082360697" ref="index"/>
+    <file name="youtube rotate (color).svg" crc="4096551110" ref="index"/>
+    <file name="youtube rotate (color)_poster_u3877.png" crc="4148034459" ref="index"/>
+    <file name="talent_formula.svg" crc="4281906143" seo="true" ref="about-strengths:3-stages">
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+    </file>
+    <file name="talent_formula_poster_.png" crc="3969775241" ref="about-strengths"/>
+    <file name="times_formula.svg" crc="516930070" seo="true" ref="about-strengths:3-stages">
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+    </file>
+    <file name="times_formula_poster_.png" crc="3793181340" ref="about-strengths"/>
+    <file name="investment_formula.svg" crc="4033365729" seo="true" ref="about-strengths:3-stages">
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+    </file>
+    <file name="investment_formula_poster_.png" crc="3763514357" ref="about-strengths"/>
+    <file name="equal_formula.svg" crc="260037916" seo="true" ref="about-strengths:3-stages">
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+    </file>
+    <file name="equal_formula_poster_.png" crc="501791033" ref="about-strengths"/>
+    <file name="strength_formula.svg" crc="494843661" seo="true" ref="about-strengths:3-stages">
+      <caption webpage="3-stages" alt=""/>
+      <caption webpage="about-strengths" alt=""/>
+    </file>
+    <file name="strength_formula_poster_.png" crc="4123314114" ref="about-strengths"/>
+    <file name="radiobuttonunchecked.png" crc="3976871150" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="radiobuttonunchecked_2x.png" crc="513732622" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover.png" crc="4276313674" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover_2x.png" crc="4247830771" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown.png" crc="54863585" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown_2x.png" crc="488488871" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="radiobuttonchecked.png" crc="4193302265" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="radiobuttonchecked_2x.png" crc="511964773" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover.png" crc="88928956" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover_2x.png" crc="3892053348" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown_2x.png" crc="4195749169" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="checkboxunchecked_2x.jpg" crc="4041065271" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover_2x.jpg" crc="421393327" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown_2x.jpg" crc="119826174" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="checkboxchecked_2x.jpg" crc="8340162" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover_2x.jpg" crc="461578639" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown_2x.jpg" crc="3782867047" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3996383442" seo="true" mt="1496771915422" redirect="true"/>
+  <file name="about-strengths.html" crc="112952653" seo="true" mt="1496772810457" redirect="true"/>
+  <file name="multimedia.html" crc="270521830" seo="true" mt="1497396987156" redirect="true"/>
+  <file name="activities.html" crc="267819093" seo="true" mt="1496427078920" redirect="true"/>
+  <file name="faq.html" crc="4144088280" seo="true" mt="1496427078920" redirect="true"/>
+  <file name="survey.html" crc="3891715125" seo="true" mt="1496444125172" redirect="true"/>
+  <file name="why-investing-time-to-develop-your-strengths.html" crc="4202193911" seo="true" mt="1496427078920" redirect="true"/>
+  <file name="4-themes.html" crc="4197731241" seo="true" mt="1496427078920" redirect="true"/>
+  <file name="34-strengths.html" crc="279784877" seo="true" mt="1496427078920" redirect="true"/>
+  <file name="3-stages.html" crc="3934020768" seo="true" mt="1496772746638" redirect="true"/>
+</manifest>

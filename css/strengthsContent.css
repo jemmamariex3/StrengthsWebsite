@@ -1,0 +1,176 @@
+/*this contains the styling for the strength cards in 34-strengths.html*/
+
+.table,
+#choices {
+    margin-left: 8%;
+}
+
+/*these are the small card logos that appear on hover of the strength texts*/
+.mini {
+    width: 65px;
+    height: 65px;
+}
+
+.tooltip.top .tooltip-inner {
+    background-color: rgba(238, 238, 238, 0); /*make the tooltip background transparent*/
+    /*background-color: white  if you dont want a transparent background*/
+}
+
+.tooltip.top .tooltip-arrow {
+    border-top-color: #00547C;
+}
+
+.table td:hover,
+#choices span:hover {
+    cursor: pointer;
+    color: #1491af;
+}
+
+.tooltip.in {
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
+
+.table td a {
+    text-decoration: none;
+    color: #00547C;
+}
+
+.table td a:hover {
+    color: #1491af;
+}
+
+.carousel {
+    margin-bottom: 0;
+    margin-top: 50px;
+    padding: 0 40px 0 40px;
+}
+
+
+/* Reposition the controls slightly */
+
+.carousel-control {
+    left: -35px;
+}
+
+.carousel-control.right {
+    right: -35px;
+    z-index: 0;
+}
+
+.carousel-control.right,
+.carousel-control.left {
+    top: 25%;
+    height: 25%;
+    background-image: none;
+    opacity: 1;
+}
+
+a.carousel-control.right,
+a.carousel-control.left {
+    height: 35%;
+    width: 40px;
+}
+
+.glyphicon.glyphicon-chevron-left,
+.glyphicon.glyphicon-chevron-right {
+    color: white;
+    border-radius: 50%;
+    border: 5px solid #8BC53F;
+    height: 40px;
+    width: 40px;
+    background: #8BC53F;
+}
+
+.glyphicon.glyphicon-chevron-left:hover,
+.glyphicon.glyphicon-chevron-right:hover {
+    -webkit-transition-duration: 0.8s;
+    -webkit-transition-delay: 0s;
+    -webkit-transition-timing-function: ease;
+    transition-duration: 0.4s;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    background-color: #2DA334;
+    border: 5px solid #2DA334;
+}
+
+
+/* Changes the position of the indicators */
+
+.carousel-indicators {
+    right: 50%;
+    top: auto;
+    bottom: 0px;
+    margin-right: -19px;
+}
+
+
+/* Changes the colour of the indicators */
+
+.carousel-indicators li {
+    background: #c0c0c0;
+}
+
+.carousel-indicators .active {
+    background: #333333;
+}
+
+.button1 {
+    background-color: #4CAF50;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.button1:hover {
+    -webkit-transition-duration: 0.8s;
+    -webkit-transition-delay: 0s;
+    -webkit-transition-timing-function: ease;
+    transition-duration: 0.4s;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    background-color: #2DA334;
+}
+
+.button2 {
+    background-color: red;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.button2:hover {
+    -webkit-transition-duration: 0.8s;
+    -webkit-transition-delay: 0s;
+    -webkit-transition-timing-function: ease;
+    transition-duration: 0.4s;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    background-color: rgb(197, 0, 0);
+}
+
+tbody,
+#choices span {
+    color: #00547C;
+}
+
+/*used to center the 2 remaining cards*/
+.row2 {
+    margin-left: 16.5%;
+    margin-right: -19.5%;
+}
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+  <!-- insert your AIML categories here -->
+  
+  
+<category>
+<pattern>^ STRENGTHS ASSESSMENT ^ </pattern>
+<template>The strengths assessment is a personality survey that presents you with 177 questions</template>
+</category>
+ 
+<category>
+<pattern>^ POSITIVE PSYCHOLOGY ^</pattern>
+<template>Positive Psychology is the study of strengths that enable individuals and communities to thrive.</template>
+</category>
+  
+  
+  
+ 
+  
+</aiml>
