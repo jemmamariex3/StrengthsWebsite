@@ -1,3 +1,5 @@
+/*eslint-env jquery*/
+"use strict";
 jQuery(document).ready(function($){
 
 	var productViewer = function(element) {
@@ -197,3 +199,4 @@ jQuery(document).ready(function($){
 		new productViewer($(this));
 	});
 });
+

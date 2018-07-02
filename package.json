@@ -1,0 +1,42 @@
+{
+  "name": "strengths",
+  "version": "1.0.0",
+  "eslintConfig": {
+    "env": {
+      "browser": true,
+      "node": true
+    }
+  },
+  "description": "This file will contain information about the files that can be found on this computer as well the structure of the files in \r the strengths website project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jemmamariex3/StrengthsWebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jemmamariex3/StrengthsWebsite/issues"
+  },
+  "homepage": "https://github.com/jemmamariex3/StrengthsWebsite#readme",
+  "dependencies": {
+    "jshint-i": "0.0.3",
+    "lg-autoplay": "^1.0.4",
+    "lg-fullscreen": "^1.0.1",
+    "lg-hash": "^1.0.4",
+    "lg-pager": "^1.0.2",
+    "lg-share": "^1.1.0",
+    "lg-thumbnail": "^1.1.0",
+    "lg-video": "^1.2.2",
+    "lg-zoom": "^1.1.0",
+    "lightgallery": "^1.6.11",
+    "node-sass": "^4.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "jshint": "^2.9.5"
+  }
+}

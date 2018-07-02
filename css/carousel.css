@@ -185,21 +185,26 @@ div.coverTop {
 
 a:hover .coverTop {
     height: 100%;
+    -webkit-transition: .3s;
     transition: .3s;
-    transition-timing-function: cubic-bezier(0.64, 0.57, 0.67, 1.53);
+    /*-webkit-transition-timing-function: cubic-bezier(0.64, 0.57, 0.67, 1.53);*/
+    /*transition-timing-function: cubic-bezier(0.64, 0.57, 0.67, 1.53);*/
+    -webkit-transition-timing-function:ease-in-out;
+    transition-timing-function: ease-in-out;
+    -webkit-transition-duration: .3s;
     transition-duration: .3s;
     -webkit-clip-path: polygon(0 0, 100% 0, 100% 0, 50% 0, 0 0);
-    clip-path: polygon (0 0, 100% 0, 100% 0, 50% 0, 0 0);
+    clip-path: polygon(0 0, 100% 0, 100% 0, 50% 0, 0 0);
 }
 
 div.coverTop img {
-    text-align: center;
-    position: relative;
-    left: 15%;
-    top: 10%;
+text-align: center;
+position: relative;
+left: 15%;
+top: 10%;
 }
 
 
 a:hover .coverTop>img:first-child {
-    opacity: 0;
+opacity: 0;
 }
