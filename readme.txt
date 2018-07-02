@@ -1,5 +1,5 @@
 This file will contain information about the files that can be found on this computer as well the structure of the files in 
-the strengths website project.
+the strengths website project. -- Christian Trinidad (Original and Strengths repository)
 
 
 In the desktop there are only a few files & Apps 
@@ -46,7 +46,7 @@ V. Strenghts
                 -Making the website responsive 
                 -Implementing more logic to the chat bot
 
-_______________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________
 
 This section will go over the file structure for the Strengths Website.
 
@@ -82,4 +82,49 @@ This section will go over the file structure for the Strengths Website.
         - This file contains the logic for the table of strengths that can be found in 
           34-strengths.html.
 
-          
+________________________________________________________________________________________________________________________________________________
+
+Jemma Tiongson's Reference Document:
+
+Monday July 02, 2018:
+    I. Changes:
+        - The following files have been renamed:
+            - 4-themes --> 4-domains (4-domains.html 4-domains.css)
+            - Multimedia --> testimonial.html & multimedia.css
+                - multimedia.html is no longer active -- exists as template and can be removed if needed
+    II. Animations:
+        - Each page on the site has its own set of animations
+        - there are no separate js files for them and js code can be found and edited in the actual html file (there is an issue with connecting js files to each html file)
+        - There is a block of jQuery code found in each of the pages that controls the fading in fromLeft fromRight etc on the bottom of the html page
+        - all custom animations in each of the pages are created by CSS animations and jQuery
+
+        Tip/Warning: This site and framework was originally created using Muse.
+            - custom changes and animations are added own using ids and classes
+            - use google chrome inspector to help dissect the original code to fine code lines and original ids and class
+            - you will see that many of the ids and classes are similar to : #u71923
+
+    III. Survey:
+        - Survey is hosted on google survey and is only embedded into the site
+        - styling for centering is found in survey.css
+
+    IV. Pre-loader:
+        - Only selected pages, About, Testimonials, and Survey have the pre-loader
+        - the code can be found first in the body
+        - jQuery code is found first in the script tag in the bottom of the html file.
+
+    V. "LightBox" / "B.S. Modal"
+        - Ana refers to the modals as lightbox
+        - I used Bootstrap 4 modals to apply the pop ups and fade in/out animations for the heart/hammer icons in about page.
+
+    VI. 34-strengths pdfs
+        - the grid is CSS grid
+
+    VII. Machine Scroll
+        - The machine viewer uses a library called "Product Viewer"
+        search: cd-product-viewer-wrapper (line 689 in index.html)
+        - There are js, jquery files that this library relies on.
+            - because of the connectivity issue I did extra research and pasted script links suggested from stackoverflow instead of downloading the package
+                https://codyhouse.co/gem/360-degrees-product-viewer
+
+
+
